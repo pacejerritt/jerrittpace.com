@@ -1,1 +1,211 @@
+@charset "utf-8";
+@import url("css/main.css");
+
+.bgvideo{
+	
+}
+
+.bgvideo video{
+	
+	
+    min-height: 100%;
+    min-width: 100%;
+    position: absolute;
+    left: 0;
+    z-index: -2;
+    right: 0px;	
+	
+}
+
+
+.intro .inner .content {
+    top: 0;
+    display: block;
+    font-size: 39px;
+    margin-top: 0;
+    /* [disabled]margin-right: auto; */
+    /* [disabled]margin-left: auto; */
+    margin-bottom: 0;
+    padding-top: 8px;
+    padding-right: 0px;
+    padding-bottom: 8px;
+    position: fixed;
+    top: 0%;
+    text-transform: uppercase;
+    text-shadow: -3px -2px #FFFFFF;
+    left: 0px;
+    right: 0px;
+    background-color: #F8B0EC;
+    color: #FF0004;
+    opacity: 0.65;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 10px;
+	
+}
+
+
+.intro .inner .content a:link {
+    color: #000000;
+    text-decoration: none;
+    left: 0px;
+}
+
+.intro .inner .content a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+
+.intro .inner .content a:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+.intro .inner .content a:hover {
+    color: #F13BE5;
+    text-decoration: none;
+}
+
+.h1 {
+    font-size: 41px;
+    color: #FFFFFF;
+}
+.LINKS {
+    color: #FFFFFF;
+    text-shadow: -1px -1px;
+    background-repeat: no-repeat;
+    -webkit-box-shadow: 0px 0px 0px 0;
+    box-shadow: 0px 0px 0px 0;
+    background-position: 16% 2%;
+    bottom: 0px;
+    font-weight: bold;
+    font-variant: normal;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    top: 0px;
+    font-size: xx-large;
+    display: inline;
+    line-height: 80px;
+}
+.rightalign .left .LINKS {
+	
+    display: inline;
+	
+		
+	
+	
+}
+
+	
+	a:link {
+    color: #c6c6c6;
+    text-decoration: none;
+}
+	
+
+
+
+
+
+
+
+a:visited {
+    text-decoration: none;
+    color: #c6c6c6;
+}
+
+	
+a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+a:active {
+    text-decoration: none;
+    color: #C6C6C6;
+}
+
+	
+	
+
+
+.left .LINKS p {
+    display: inline;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+
+.whitetext {
+}
+.bgcolor {
+    background-color: #000000;
+}
+
+body,td,th {
+    color: #FFFFFF;
+}
+body {
+    background-color: #000000;
+
+
+
+
+    background-image: url(images/blur-branches-foliage-38537
+%20(1).jpg);
+}
+
+.fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+.fullscreen-bg__video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+}.rightalign {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    background-image: url(images/jerrittpace%20background%20still.jpg);
+    right: auto;
+    display: block;
+    margin-left: auto;
+}
+.leftadjust {
+}
+.rtalign {
+    margin-left: auto;
+}
+.left {
+    padding-left: 27px;
+
+}
+
+.bg {
+    background-color: #000000;
+}
+.bgcolor .rightalign .left {
+    left: 0px;
+}
+.bgcolor .rightalign .leftalign {
+    left: 0px;
+}
+.form {
+    color: #1A2DC1;
+}
 
