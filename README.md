@@ -6,3 +6,5 @@ This is a preloader sample page I want to include on my main splash page at http
 THe ajax code is explained at 
 http://dinbror.dk/blog/how-to-preload-entire-html5-video-before-play-solved/
 
+TESTER!!
+
