@@ -6,5 +6,5 @@ This is a preloader sample page I want to include on my main splash page at http
 The ajax code is explained at 
 http://dinbror.dk/blog/how-to-preload-entire-html5-video-before-play-solved/
 
-I figured out the file heirarchy so the style sheet is in the css folder in the github dipository.
+I got the file heirarchy straight finally.
 
